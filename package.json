@@ -13,7 +13,7 @@
     "activationEvents": [
         "*"
     ],
-    "main": "./out/src/extension",
+    "main": "./dist/src/extension",
     "repository": {
         "type": "git",
         "url": "https://github.com/ramya-rao-a/show-offset.git"
